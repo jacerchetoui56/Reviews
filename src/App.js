@@ -1,7 +1,12 @@
-
+import Header from './Header';
+import Main from './Main';
+import './styles.css'
 function App() {
   return (
-    null
+    <>
+      <Header />
+      <Main />
+    </>
   );
 }
 

@@ -55,6 +55,7 @@
   border-radius: 50%;
   margin-bottom: 1rem;
   position: relative;
+  object-fit: cover;
 }
 
 .review-image::after {
